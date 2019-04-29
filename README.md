@@ -22,3 +22,9 @@ Preview
 <p align="center">
         <img src="/../master/img/preview.jpg" height="50%" width="80%" />
 </p>
+<br>
+
+PS
+Admin Panel Data
+Login: Admin
+Password: 1
