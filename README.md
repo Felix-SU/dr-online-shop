@@ -14,7 +14,7 @@ Install & Run
   <li>Configure database connection in db/conn.php</li>
   <li>And email in php/send.php and php/reg.php</li>
 </ul>
-If download speed is slow you can download by google drive
+If download speed is slow you can download by google drive<br>
 https://drive.google.com/open?id=1WiigeweLoWJ-ylsrzNBy6z6F9SKd-Xn6
 <br>
 Preview 
