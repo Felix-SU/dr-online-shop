@@ -6,6 +6,7 @@ Digtal Resources online shop using PHP and Ajax
   <li>PHP  7.3.0</li>
   <li>Apache|Nginx</li>
   <li>MySQL|MariaDB</li>
+  <li>Better use 1920x1080 Resolution</li>
 </ul>
 <br>
 Install & Run
