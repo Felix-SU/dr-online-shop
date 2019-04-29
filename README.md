@@ -26,5 +26,5 @@ Preview
 
 PS
 Admin Panel Data
-Login: Admin
-Password: 1
+<br>Login: Admin
+<br>Password: 1
